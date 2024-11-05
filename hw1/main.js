@@ -1,29 +1,29 @@
 // let a="hello";
-// console.log(a)
+// console.log(a);
 // let b='owu';
-// console.log(b)
+// console.log(b);
 // let c='com';
-// console.log(c)
+// console.log(c);
 // let d='ua';
-// console.log(d)
+// console.log(d);
 // let e=1;
-// console.log(e)
+// console.log(e);
 // let f=10;
-// console.log(f)
+// console.log(f);
 // let g=123;
-// console.log(g)
+// console.log(g);
 // let h=-999;
-// console.log(h)
+// console.log(h);
 // let i=3.14;
-// console.log(i)
+// console.log(i);
 // let j=2.7;
-// console.log(j)
+// console.log(j);
 // let k=16;
-// console.log(k)
+// console.log(k);
 // let l=true;
-// console.log(l)
+// console.log(l);
 // let m=false;
-// console.log(m)
+// console.log(m);
 // ------------------------------------------------
 
 // let firstName = "Дар'я";
